@@ -46,7 +46,7 @@ header{
     transition: .5s;
 }
 header:hover .half-width{
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 #home-banner{
     width: 556px;
